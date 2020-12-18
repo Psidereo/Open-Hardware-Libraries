@@ -1,0 +1,21 @@
+OPEN HARDWARE:
+
+    MICROPROCESORS
+    MEMORIES
+    CHIPSETS
+    I/O CONTROLERS
+
+HDL(RTL):
+	VHDL
+	Verilog
+Synthesis(GDSSII, OASIS):
+	Qflow
+	Yosys
+Simulation(Netlist):
+	Transistor:
+	Logic:
+Analysis and Verification:
+	CDC:
+	Static timing analysis:
+Layout:
+	Magic
