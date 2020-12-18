@@ -1,21 +1,9 @@
-OPEN HARDWARE:
-
-    MICROPROCESORS
-    MEMORIES
-    CHIPSETS
-    I/O CONTROLERS
-
-HDL(RTL):
-	VHDL
-	Verilog
-Synthesis(GDSSII, OASIS):
-	Qflow
-	Yosys
-Simulation(Netlist):
-	Transistor:
-	Logic:
-Analysis and Verification:
-	CDC:
-	Static timing analysis:
-Layout:
-	Magic
+Entry 18/12/2020
+Daily 001:
+	Finish:
+		-VHDL Template
+		-Veriglog Template
+	Optional:
+		-Gates
+		-Combinational basics
+		-Sequential basic
