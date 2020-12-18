@@ -42,33 +42,38 @@ Open hardware Verilog and VHDL libraries and files.
     - Not included. Contact Psidereo for further information.
 
 ## Sequential Logic
-    -Latches
-        -RS
-        -
-    -Flip-Flops
-        -
-        -
+### Latches
+    -R-S
+    -EN
+    -D
+### Flip-Flops
+    -D
+    -J-K
+### Applications
+    -Storage
+    -Frequency Dividers
+    -Counters
 
 ## Processor
 ### General Purpuse Central Processor Unit
-        - Not included. Contact Psidereo for further information.
-        - Memory Proccessing Unit
-        - Control Processing Unit
-        - I/O Processing Unit
-        - Arithmetic & Logic Processing Unit
-        - Floating Point Processing Unit
+    - Not included. Contact Psidereo for further information.
+    - Memory Proccessing Unit
+    - Control Processing Unit
+    - I/O Processing Unit
+    - Arithmetic & Logic Processing Unit
+    - Floating Point Processing Unit
 ### Graphics Processor Unit
-        - Not included. Contact Psidereo for further information.
+    - Not included. Contact Psidereo for further information.
 ### Audio Processor Unit
-        - Not included. Contact Psidereo for further information.
+    - Not included. Contact Psidereo for further information.
 ### Machine Vision Processor Unit
-        - Not included. Contact Psidereo for further information.
+    - Not included. Contact Psidereo for further information.
 ### Machine Audition Processor Unit
-        - Not included. Contact Psidereo for further information.
+    - Not included. Contact Psidereo for further information.
 ### AI Harware Acceleration Processor Unit
-        - Not included. Contact Psidereo for further information.  
+    - Not included. Contact Psidereo for further information.  
 ### Specialized Harware Acceleration Processor Unit
-        - Not included. Contact Psidereo for further information.           
+    - Not included. Contact Psidereo for further information.           
 
 ## Memory
 ### Static Random Access Memory
